@@ -1,0 +1,28 @@
+h2[id ="red"]{
+    color: rgb(255, 0, 0);
+}
+
+h2[id ="blue"]{
+    color: rgb(0, 183, 255);
+}
+
+h2[id ="orange"]{
+    color: rgb(255, 123, 0);
+}
+
+h2[id ="green"]{
+    color: rgb(0, 175, 9);
+}
+
+h2[id ="yellow"]{
+    color: rgb(255, 251, 0);
+}
+
+h2[class="color-title"]{
+    font-weight: normal
+}
+
+img[src]{
+    height: 200px;
+    width: 200px;
+}
